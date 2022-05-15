@@ -1,0 +1,12 @@
+bagimana push data ke github ?
+1.mkdir nama file .
+2.cd nama file di atas .
+3.git confing --global user.name"".
+4.git confing --global user.email"".
+5.git clone copy link  .
+6.ls untuk mencul apa dalam link,
+7.cd tulis nama keluar dari link di atas.
+8.git stutas itu keluar data belum masuk di dalam link.
+9.git add * masuk data di link.
+10.git commit -m "tulis apa yabk kamu kerja"
+11.git push origin main itu untuk tampahan data di github.
